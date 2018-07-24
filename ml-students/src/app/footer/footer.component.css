@@ -1,0 +1,78 @@
+footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:100px;
+}
+
+
+.css-1rz7enw,
+[data-css-1rz7enw] {
+  background-color: #1D2326;
+  text-align: center;
+  padding: 50px 0 60px 0;
+}
+
+@media (max-width: 600px) {
+  .css-1rz7enw,
+  [data-css-1rz7enw] {
+    padding: 50px;
+  }
+}
+
+.css-5801x4,
+[data-css-5801x4] {
+  margin-bottom: 45px;
+}
+
+.css-5801x4 a,
+[data-css-5801x4] a {
+  display: inline-block;
+  font-family: europa, sans-serif;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.css-5801x4 a:not(:last-child),
+[data-css-5801x4] a:not(:last-child) {
+  margin-right: 40px;
+}
+
+@media (max-width: 600px) {
+  .css-5801x4 a,
+  [data-css-5801x4] a {
+    min-width: 80px;
+  }
+  .css-5801x4 a:not(:last-child),
+  [data-css-5801x4] a:not(:last-child) {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+}
+
+.css-w0yocm,
+[data-css-w0yocm] {
+  display: inline-block;
+}
+
+.css-5gvpa4,
+[data-css-5gvpa4] {
+  fill: #FFFFFF;
+  width: 19px;
+  height: 19px;
+  position: relative;
+  top: 3px;
+}
+
+.css-w48r46,
+[data-css-w48r46] {
+  width: 140px;
+  height: 40px;
+  margin: auto;
+}
+
+.css-13ymtpq,
+[data-css-13ymtpq] {
+  width: 140px;
+  height: 40px;
+}
